@@ -4,7 +4,8 @@
       "Bash(bash:*)",
       "Bash(source ~/.zshrc)",
       "Bash(echo:*)",
-      "Bash(lsof:*)"
+      "Bash(lsof:*)",
+      "WebFetch(domain:code.claude.com)"
     ],
     "deny": [],
     "ask": []
