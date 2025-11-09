@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(bash:*)",
-      "Bash(source ~/.zshrc)"
+      "Bash(source ~/.zshrc)",
+      "Bash(echo:*)",
+      "Bash(lsof:*)"
     ],
     "deny": [],
     "ask": []
